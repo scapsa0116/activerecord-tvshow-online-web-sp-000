@@ -24,4 +24,7 @@ class Show < ActiveRecord::Base
   
   def Show::popular_shows
     Show.order("rating > 5")
+  end 
+  
+  def Show::
 end 
