@@ -26,5 +26,6 @@ class Show < ActiveRecord::Base
     Show.order("rating > 5")
   end 
   
-  def Show::
+  def Show::shows_by_alphabetical_order
+    Show.
 end 
