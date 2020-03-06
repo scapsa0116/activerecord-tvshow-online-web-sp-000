@@ -7,3 +7,4 @@ def change
     s.integer :rating
    end 
 end 
+end 
