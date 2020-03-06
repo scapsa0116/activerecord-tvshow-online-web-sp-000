@@ -5,5 +5,6 @@ class Show < ActiveRecord::Base
   end 
   
   
-  def 
+  def Show:: most_popular_show
+    Show.
 end 
